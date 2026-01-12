@@ -23,3 +23,5 @@ Analisar entradas e saídas de caixa, identificar meses com resultado negativo e
 
 ## 🖼️ Preview do Dashboard
 ![Dashboard](images/dashboard-fluxo-caixa.png)
+
+📌 Projeto desenvolvido como parte do meu portfólio e estudo em Análise de Dados aplicada a Finanças e Contabilidade.
