@@ -26,4 +26,4 @@ Analisar entradas e saídas de caixa, identificar meses com resultado negativo e
 
 📌 Projeto desenvolvido como parte do meu portfólio e estudo em Análise de Dados aplicada a Finanças e Contabilidade.
 
-Os dados utilizados neste projeto são simulados e têm finalidade exclusivamente demonstrativa.
+⚠️ Observação: os dados utilizados neste projeto são simulados e têm finalidade demonstrativa.
